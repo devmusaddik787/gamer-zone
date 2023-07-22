@@ -102,7 +102,7 @@ header nav {
 .hero-content {
     width: 60%;
     height: 700px;
-    background-image: url(/images/Group\ 14.png);
+    background-image: url(./images/Group\ 14.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
